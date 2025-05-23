@@ -3,7 +3,7 @@
 
 A computer vision-based project that detects a cricket ball's motion in a video, predicts its post-bounce trajectory assuming no spin, and visualizes the difference between actual and predicted motion.
 
-![Output Preview](output/kohli.png)
+![Output Preview](results/kohli.png)
 
 ---
 
