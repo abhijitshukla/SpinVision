@@ -78,6 +78,13 @@ The overlay video shows:
 - Make sure your YOLO model path and video file path are correctly set.
 - Modify frame dimensions if using a video of different resolution.
 
+## 🔗 Model Download
+
+Download the YOLOv8 cricket ball detector model from this link:  
+[Download cricket_ball_detector.pt]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1zB0P6IOUDsqf7SNQG_kFi2CjOzTyXFoG/view?usp=drive_link))  
+Place it in the `model/`
+
+
 ---
 
 ## 📄 License
